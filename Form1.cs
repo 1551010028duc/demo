@@ -15,5 +15,10 @@ namespace demo
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            double a = 6.5;
+        }
     }
 }
