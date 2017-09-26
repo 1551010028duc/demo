@@ -37,12 +37,13 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.button1.Location = new System.Drawing.Point(42, 16);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(141, 84);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             // 
             // textBox1
             // 
